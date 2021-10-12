@@ -9,5 +9,5 @@ while true ; do
   fi
 done
 
-mongo --host mongodb <catalogue.js
-mongo --host mongodb <users.js
+mongo --host mongo <catalogue.js
+mongo --host mongo <users.js
