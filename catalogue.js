@@ -26,4 +26,4 @@ db.products.createIndex({
 db.products.createIndex(
     { sku: 1 },
     { unique: true }
-)
+);
